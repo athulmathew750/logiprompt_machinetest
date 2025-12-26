@@ -4,7 +4,7 @@ Files in this Repository
 
 data.csv – Raw dataset used for training and evaluation
 
-machine_test.ipynb – Jupyter Notebook containing the complete code, outputs, and interpretation
+machine_test.ipynb – Jupyter Notebook containing the complete code, outputs, and accuracy measures
 
 Interpretation
 
